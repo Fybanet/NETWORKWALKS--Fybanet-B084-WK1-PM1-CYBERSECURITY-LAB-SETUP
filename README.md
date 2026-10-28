@@ -124,7 +124,7 @@ The configuration shown in the network settings was:
 
 Screenshot:
 
-![Kali Linux IPv4 Network Configuration](IPv4 Network Configuration.png)
+![Kali Linux IPv4 Network Configuration](https://github.com/Fybanet/NETWORKWALKS--Fybanet-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/b939094f50ca65305419c972f6492734abe96a8a/IPv4%20Network%20Configuration.png)
 
 This configuration assigns the virtual machine a consistent IPv4 address and specifies the gateway and DNS resolvers it should use.
 
@@ -283,15 +283,15 @@ The following screenshots document the troubleshooting process.
 
 The terminal shows successful ping replies from `8.8.8.8`, followed by a name-resolution error when attempting to ping `google.com`.
 
-![Initial connectivity test and DNS failure](Initial DNS Resolution Failure.png)
+![Initial connectivity test and DNS failure](https://github.com/Fybanet/NETWORKWALKS--Fybanet-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/b939094f50ca65305419c972f6492734abe96a8a/Initial%20DNS%20Resolution%20Failure.png)
 
 ### 2. IPv4 Network Configuration
 
 The NetworkManager window shows the manually configured IPv4 address, gateway, and DNS servers.
 
-![Manual IPv4 configuration in Kali Linux](IPv4 Network Configuration.png)
+![Manual IPv4 configuration in Kali Linux](https://github.com/Fybanet/NETWORKWALKS--Fybanet-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/b939094f50ca65305419c972f6492734abe96a8a/IPv4%20Network%20Configuration.png)
 
-> Save the supplied screenshots in an `images/` directory in this repository and use the filenames referenced above. Rename the image files or update the Markdown paths if you choose different filenames.
+
 
 ## 💡 Key Lessons Learned
 
